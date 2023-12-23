@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "159578669882",
+    "project_id": "course-ac9f5",
+    "storage_bucket": "course-ac9f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159578669882:android:c41da9c8dd57cbabd84603",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC1wX8Sq5KMYKmcPxEIV62uM4dsPr21yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159578669882:android:5757417ded4ba1ead84603",
+        "android_client_info": {
+          "package_name": "com.iqra.app.fip5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC1wX8Sq5KMYKmcPxEIV62uM4dsPr21yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
